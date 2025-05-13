@@ -1,0 +1,5 @@
+temperature,pressure,vibration,speed,label
+70,5.1,0.02,1500,normal
+85,5.5,0.07,1450,failure
+90,6.0,0.10,1400,failure
+75,5.0,0.03,1500,normal
